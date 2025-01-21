@@ -5,6 +5,7 @@ no1 = 22
 no2 = 56
 print(no2, no1)
 ```
+
 **Screen short of output📝**
 ![image](https://github.com/user-attachments/assets/a9378f04-ee82-4259-8b74-2a92bc76485f)
 
