@@ -99,3 +99,14 @@ D) None of the above
 
 ---
 
+## Answer Key 🗝️: 
+1. C) 15
+2. A) del
+3. B) 10
+4. C) "5555555555"
+5. D) None of the above
+6. A) my_var = 5
+7. B) False
+8. A) Error
+9. B) a = b = c = 10
+10. A) id()
