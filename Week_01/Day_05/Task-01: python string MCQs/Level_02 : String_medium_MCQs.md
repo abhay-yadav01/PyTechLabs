@@ -112,5 +112,3 @@
     D) `startswith()`  
 
     **Answer:** A  
-
----
