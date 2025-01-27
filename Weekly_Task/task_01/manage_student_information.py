@@ -22,3 +22,5 @@ print(f"\tPass Status: {'Pass' if pass_status else 'Fail'}")
 
 # Display sliced part of the name
 print(f"\nSliced Name: {student_name[:5]}")  # Extract the first 4 characters
+
+# completed by abhay_yadav
